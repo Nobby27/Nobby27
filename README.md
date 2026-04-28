@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./githubicons/amd-logo-monochrome-motion-blur-vgy2hdl5d7jscji6.jpg" alt="Header" width="100%" height="100%"/>
+<img src="./githubicons/amd-logo-monochrome-motion-blur-vgy2hdl5d7jscji6.jpg" alt="Header" width="50%" height="50%"/>
  
 <p align="center">
   :wave:  Ich bin ein angehender Data Analyst mit einer großen Neugier für Daten und alles, was man aus ihnen herausholen kann.  
