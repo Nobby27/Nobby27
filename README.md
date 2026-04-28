@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./githubicons/ChatGPT Image 28. Apr. 2026, 15_51_38.jpg" alt="Header" width="50%" height="50%"/>
+<img src="./githubicons/header.jpg" alt="Header" width="50%" height="50%"/>
 
   
 <p align="center">
