@@ -1,6 +1,6 @@
 <div align="center">
 
-# Willkommen auf meiner GitHub-Seite
+# Welcome to my GitHub
 
 </div>
 
