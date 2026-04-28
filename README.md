@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<img src="./githubicons/nobbybild.png" alt="Header" width="50%" height="50%"/>
+<img src="./githubicons/nobbybild2.png" alt="Header" width="50%" height="50%"/>
 
   
 <p align="center">
