@@ -1,5 +1,6 @@
 <p align="center"> 
 ## Willkommen auf meiner GitHub-Seite
+</p>
 
 <p align="center">
 <img src="./githubicons/nobbybild.png" alt="Header" width="50%" height="50%"/>
