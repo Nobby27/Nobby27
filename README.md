@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./githubicons/amd-logo-monochrome-motion-blur-vgy2hdl5d7jscji6.jpg" alt="Header" width="50%" height="50%"/>
+<img src="./githubicons/ChatGPT Image 28. Apr. 2026, 15_51_38.jpg" alt="Header" width="50%" height="50%"/>
 
   
 <p align="center">
