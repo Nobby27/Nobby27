@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./githubicons/header.png" alt="Header" width="50%" height="50%"/>
+<img src="./githubicons/Header.png" alt="Header" width="50%" height="50%"/>
 
   
 <p align="center">
