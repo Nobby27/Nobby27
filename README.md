@@ -10,11 +10,11 @@
 
   
 <p align="center">
-  :wave:  Ich bin ein angehender Data Analyst mit einer großen Neugier für Daten und alles, was man aus ihnen herausholen kann.  
+  :wave:  
 <br /><br />
-  Mich begeistert es, Zusammenhänge zu entdecken und Dinge verständlich auf den Punkt zu bringen.  
+   
 <br /><br />
-  Dabei bin ich immer motiviert, Neues zu lernen und mich kontinuierlich weiterzuentwickeln.
+
 </p>
  
  
