@@ -1,5 +1,8 @@
-<p align="center">
+<div align="center">
+
 # Willkommen auf meiner GitHub-Seite
+
+</div>
 
 
 <p align="center">
