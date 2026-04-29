@@ -38,6 +38,6 @@
 SQL (PostgreSQL, T-SQL)
 <h2>SQL</h2>   <span style="color: #627EA6; font-size: 12px;">currently learning</span><br />
 <p align="left">
-<img src="./githubicons/postgresql.jpg" height="100" alt="Postgres" style="margin-right:8px;" />
-<img src="./githubicons/transact-sql.webp" height="100" alt="Postgres" style="margin-right:8px;" />
+<img src="./githubicons/postgresql-tsql.png" height="100" alt="Postgres" style="margin-right:8px;" />
+
 </p>
