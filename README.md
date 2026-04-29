@@ -11,6 +11,7 @@
   
 <p align="center">
   :wave:  Kapitel 1 done. - ehemaliger Berufskraftfahrer - 
+  
   Kapitel 2 in work. - IT , Hello :) Weiterbildung zum DataAnalyst
 <br /><br />
    
