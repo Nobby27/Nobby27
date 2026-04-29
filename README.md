@@ -14,7 +14,7 @@
 <p align="center">
   Kapitel 1 done. - ehemaliger Berufskraftfahrer - 
 <p align="center">
-  Kapitel 2 in work. - IT , Hello :) Weiterbildung zum DataAnalyst
+  Kapitel 2 in work. - IT , Hello :) Weiterbildung zum DataAnalyst -
 <br /><br />
    
 <br /><br />
