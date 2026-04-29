@@ -10,7 +10,8 @@
 
   
 <p align="center">
-  :wave:  Ich hab mein Berufsleben auf den Kopf gestellt und mich umorientiert. Ich bin auf einem guten Weg, ein Data Analyst zu werden.
+  :wave:  Kapitel 1 done. - ehemaliger Berufskraftfahrer - 
+  Kapitel 2 in work. - IT , Hello :) Weiterbildung zum DataAnalyst
 <br /><br />
    
 <br /><br />
