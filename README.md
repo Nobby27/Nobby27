@@ -35,7 +35,7 @@
  
 ## Preferred Tech Stack
  
-<h3> Backend / Data </h3>
+<h3> Backend / Data </h3> SQL (PostgreSQL, T-SQL)
 <h2>SQL</h2>   <span style="color: #627EA6; font-size: 12px;">currently learning</span><br />
 <p align="left">
 <img src="./Assets/postgres_logo.png" height="100" alt="Postgres" style="margin-right:8px;" />
