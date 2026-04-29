@@ -10,7 +10,7 @@
 
   
 <p align="center">
-  :wave:  
+  :wave:  Ich hab mein Berufsleben auf den Kopf gestellt und mich umorientiert. Ich bin auf einem guten Weg, ein Data Analyst zu werden.
 <br /><br />
    
 <br /><br />
