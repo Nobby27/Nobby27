@@ -24,7 +24,7 @@
  
 <table >
 <tr>
-<td><img src="./Assets/smartfuturelogo.jpg" width="100" alt="Provider Logo" /></td>
+<td><img src="./githubicons/SFC.jpg" width="100" alt="Provider Logo" /></td>
 <td style="padding-left: 11px;">
 <span style="color: white; font-weight: bold;">Data Analyst</span><br />
 <span style="color: white;">Smart Future Campus</span>
